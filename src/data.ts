@@ -37,7 +37,7 @@ export const NEW_COLLECTION_PRODUCTS: Product[] = [
     name: 'AURORA SILVER™',
     subName: 'REFLECTIVE LIQUID PUFFER JACKET',
     price: 249.99,
-    img: '/src/assets/images/product_silver_puffer_1781668748984.jpg',
+    img: 'https://i.ibb.co/RkMs27jg/Aurora-Silver.jpg',
     colors: ['SILVER', 'WHITE', 'BLACK'],
     sizes: ['S', 'M', 'L', 'XL'],
     category: 'INSULATED',
@@ -56,7 +56,7 @@ export const NEW_COLLECTION_PRODUCTS: Product[] = [
     name: 'STEALTH BLACK™',
     subName: 'HEAVY RESILIENT ARMOR PUFFER',
     price: 229.99,
-    img: '/src/assets/images/stealth_black_natural_1781842841897.jpg',
+    img: 'https://i.ibb.co/XxsrZLCr/Stealth-Black.jpg',
     colors: ['BLACK', 'NAVY BLUE'],
     sizes: ['S', 'M', 'L', 'XL'],
     category: 'SPEC-OPS',
@@ -75,7 +75,7 @@ export const NEW_COLLECTION_PRODUCTS: Product[] = [
     name: 'ICEFIELD BLUE™',
     subName: 'THERMO-REGULATING GLACIER PUFFER',
     price: 179.99,
-    img: '/src/assets/images/product_ice_puffer_1781668784127.jpg',
+    img: 'https://i.ibb.co/TD77D0xQ/Icefield-Blue.jpg',
     colors: ['ICE BLUE', 'SILVER', 'WHITE'],
     sizes: ['S', 'M', 'L', 'XL'],
     category: 'SHELL',
@@ -94,7 +94,7 @@ export const NEW_COLLECTION_PRODUCTS: Product[] = [
     name: 'GLACIER WHITE™',
     subName: 'INSULATED WEATHER-SHIELD PUFFER',
     price: 239.99,
-    img: '/src/assets/images/glacier_white_model_1781843175171.jpg',
+    img: 'https://i.ibb.co/mgz1W9T/Glacier-White.jpg',
     colors: ['WHITE', 'SILVER', 'BLACK'],
     sizes: ['S', 'M', 'L', 'XL'],
     category: 'INSULATED',
@@ -113,7 +113,7 @@ export const NEW_COLLECTION_PRODUCTS: Product[] = [
     name: 'POLAR GLOSS™',
     subName: 'HIGH-GLOSS MONOCHROME DOWN',
     price: 189.93,
-    img: '/src/assets/images/polar_gloss_model_1781842042306.jpg', // custom generated stunning ultra high-gloss model image
+    img: 'https://i.ibb.co/CKjs7Q83/Polar-Gloss.jpg', // custom generated stunning ultra high-gloss model image
     colors: ['BLUE GLOSS', 'BLACK GLOSS', 'WHITE GLOSS'],
     sizes: ['S', 'M', 'L', 'XL'],
     category: 'SHELL',
@@ -132,7 +132,7 @@ export const NEW_COLLECTION_PRODUCTS: Product[] = [
     name: 'POLAR WHITE™ XL',
     subName: 'HEAVY SHIELD UTILITY DOWN',
     price: 299.99,
-    img: '/src/assets/images/polar_white_dress_1781843377143.jpg', // custom generated Polar White high-fashion winter dress
+    img: 'https://i.ibb.co/rKL39Lm6/Polar-White.jpg', // custom generated Polar White high-fashion winter dress
     colors: ['WHITE', 'ICE BLUE'],
     sizes: ['M', 'L', 'XL'],
     category: 'SPEC-OPS',
