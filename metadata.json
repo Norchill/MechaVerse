@@ -1,0 +1,6 @@
+{
+  "name": "FRZN Arctic Fashion",
+  "description": "A premium futuristic eCommerce fashion landing page inspired by high-end streetwear and luxury outdoor apparel with a cold Arctic aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
