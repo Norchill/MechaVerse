@@ -10,13 +10,13 @@ export const HERO_PRODUCT: Product = {
   name: 'FRZN™ JOCKS',
   subName: 'THERMOACTIVE SEAMLESS ATHLETIC JOCK SHORTS',
   price: 189.99,
-  img: '/src/assets/images/jocks_white_1781843812677.jpg',
+  img: 'https://i.ibb.co/mFD5KYjT/jocks-white-1781843812677.jpg',
   colors: ['WHITE', 'SILVER', 'ICE BLUE', 'BLACK'],
   colorImages: {
-    'WHITE': '/src/assets/images/jocks_white_1781843812677.jpg',
-    'SILVER': '/src/assets/images/jocks_silver_1781843845995.jpg',
-    'ICE BLUE': '/src/assets/images/jocks_ice_blue_1781843865736.jpg',
-    'BLACK': '/src/assets/images/jocks_black_1781843825606.jpg'
+    'WHITE': 'https://i.ibb.co/mFD5KYjT/jocks-white-1781843812677.jpg',
+    'SILVER': 'https://i.ibb.co/hRTVxmWn/jocks-silver-1781843845995.jpg',
+    'ICE BLUE': 'https://i.ibb.co/8LzdYtR5/jocks-ice-blue-1781843865736.jpg',
+    'BLACK': 'https://i.ibb.co/cSgrSxJT/jocks-black-1781843825606.jpg'
   },
   sizes: ['S', 'M', 'L', 'XL'],
   category: 'INSULATED',

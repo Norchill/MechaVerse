@@ -35,25 +35,25 @@ export default function HeroSection({ heroProduct, onAddToCart, onProductClick }
     {
       id: 't1',
       title: 'White Spec',
-      img: '/src/assets/images/jocks_white_1781843812677.jpg',
+      img: 'https://i.ibb.co/mFD5KYjT/jocks-white-1781843812677.jpg',
       code: 'PROT_DEC_01'
     },
     {
       id: 't2',
       title: 'Silver Spec',
-      img: '/src/assets/images/jocks_silver_1781843845995.jpg',
+      img: 'https://i.ibb.co/hRTVxmWn/jocks-silver-1781843845995.jpg',
       code: 'PROT_DEC_02'
     },
     {
       id: 't3',
       title: 'Ice Blue Spec',
-      img: '/src/assets/images/jocks_ice_blue_1781843865736.jpg',
+      img: 'https://i.ibb.co/8LzdYtR5/jocks-ice-blue-1781843865736.jpg',
       code: 'PROT_DEC_03'
     },
     {
       id: 't4',
       title: 'Stealth Black Spec',
-      img: '/src/assets/images/jocks_black_1781843825606.jpg',
+      img: 'https://i.ibb.co/cSgrSxJT/jocks-black-1781843825606.jpg',
       code: 'PROT_DEC_04'
     }
   ];
